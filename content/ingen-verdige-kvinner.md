@@ -1,0 +1,3 @@
+Title: Ingen verdige kvinner?
+Date: 1970-01-01 00:00:05
+<img width="20%" src="{static}/images/Amalie_Skram.jpg" class="left"/> <img width="20%" src="{static}/images/Anne-Cath._Vestly.jpg" class="left"/> Under ti prosent av vegene i bydelene som er oppkalt etter personer, har navn etter kvinner – og ingen av disse kvinnene har etternavn. Våren 2013 foreslo Rødt Østensjø å gi navn til 35 navnløse gater og plasser, og vi foreslo 35 verdige kvinner. To år etter har bydelspolitikerne fortsatt ikke fått fingeren ut.[Les Rødt Østensjøs forslag her]({static}/pdfs/gateprosjektet.pdf) (pdf).

@@ -1,0 +1,46 @@
+Title: Stopp utbyggingene i øst
+Date: 1970-01-01 00:00:09
+Summary: Arealbrukspolitikken motsier transportpolitikken i Oslo. Vi må derfor få stoppa en god del av utbygginga på østkanten inntil vi får en ny tunnel gjennom sentrum, skriver Rødt Østensjøs førstekandidat Harald Minken i dette innlegget.
+Author: Harald Minken
+
+<img width="100px" src="{static}/images/harald.jpg" class="left"/>
+
+**Vi må få stoppa en god del av utbygginga på østkanten til vi får en ny tunnel gjennom sentrum.**
+
+T-banenettet er grunnstammen i kollektivtransporten i Oslo. T-banenettet er så godt som symmetrisk om en akse nord-sør. Det vil si at ut fra T-baneringen stråler det fire linjer i vest og fire linjer i øst, og samla sett er strålene i vest omtrent like lange som de i øst, med omtrent like mange stasjoner. På dette nettet drives det gjennomgående pendeltrafikk. Det vil si at de aller fleste avgangene fra Ellingsrudåsen, Mortensrud, Bergkrystallen og Vestli i øst passerer sentrum og ender opp på Bekkestua, Østerås, Frognerseteren, Sognsvann eller Storo. Et seksvognerstog i øst gir altså et seksvognerstog i vest, og en avgang i øst gir en avgang i vest.
+
+Dette står i sterk kontrast til ulikheten mellom øst og vest når det gjelder arealbruk og folketall i områdene som banene dekker. I vest dominerer eneboliger, ofte på store tomter, i øst dominerer blokker og rekkehus, ofte i nærheten av T-banestasjonene. Resultatet er at samtidig som det er mer enn fullt belegg i øst, er det ledige sitteplasser i vest. Dette er ikke effektivt. Men hovedproblemet er at det nå legges opp til en byutviklingspolitikk som gjør det mye verre.
+
+Dersom SSBs prognoser slår til, blir det over 30 prosent flere innbyggere i Oslo om 20 år. To planer er laga for å takle denne befolkningsveksten. Den første er en samordna transport- og arealbruksplan for Oslo og Akershus. Den andre er kommuneplanen for Oslo, som skal vedtas i høst. Disse planene ser ut til å bli bygd rundt velkjente prinsipper, som at markagrensa skal bevares, at kollektivtrafikken skal ta trafikkveksten og at de nye boligområdene (eller nye byene!) skal lokaliseres i knutepunkter for de viktigste kollektivlinjene. Likevel er det to iøyenfallende problemer.
+
+## Vestkanten skal bevares som den er
+
+Det første problemet er at ingen av prinsippene som er formulert, gjør noe skille mellom øst og vest. Derimot finnes det et prinsipp som ikke er formulert i planene, og det er å bevare vestkanten slike den er, eller «bevare strøkets karakter» som det heter når noen prøver å fortette eller bygge blokker i villastrøkene på vestkanten eller i Bærum. Å bevare strøkets karakter er grunnprinsippet i hele bærumspolitikken og hovedprinsippet til den innflytelsesrike strøksforeninga som heter Oslo Høyre. Det tvilsomme prinsippet er klart og tydelig formulert i kommuneprogrammene til både Oslo Høyre og Oslo Venstre og får som regel støtte fra både MDG og Oslo SV. Oslo skal bli storby, Oslo skal bli finanssentrum og alt mulig rart, men villastrøkene på vestkanten skal ligge som de lå i nikkersadelens storhetstid.
+
+Konkret betyr dette at når boligbygginga i fjordbyen, på Ensjø og i Kværnerbyen er fullført, vil de nye store boligprosjektene komme i Groruddalen og generelt langs T-banelinjene på østsida av byen. Det første på programmet er den såkalte Hovinbyen, i et belte fra Økern og Løren til Breivoll, Helsfyr og Brynseng. Deretter blir det bygging i forlengelsen av eksisterende østlige T-banelinjer (Ellingsrudåsen forlenges til Ahus, Mortensrud til Gjersrud-Stensrud). Men hele tida vil det samtidig bli gitt tillatelse til små tette og stygge prosjekter i de østlige bydelene. I vest er villaområdene verna av den såkalte småhusplanen. Men ikke bare villaområdene. Fornebu er jo ikke noe villaområde, men likevel har Bærum kommune lyktes i en langvarig kamp for å få så få boliger der som mulig.
+
+Resultatet er halvfulle T-baner i vest og stappfulle baner i øst. Og mye verre skal det bli etter hvert som regionplanen og kommuneplanens byggeplaner settes ut i livet. Folk langs T-banene til Bergkrystallen, Mortensrud og Ellingsrudåsen må betale prisen for at Ullern og Holmenkollåsen skal bli bevart som borgerskapets idyller. Dette blir ytterligere forverra av en samferdselspolitikk som skal få folk fra Romerike og Follo til å parkere bilen på en østlig T-banestasjon langt ute, som for eksempel Mortensrud.
+
+## Utbyggerne skal få det som de vil
+
+Det andre store problemet med de to planene er at de er lagd for å brytes. Det er ikke lenger kommunen som lager reguleringsplanene, dvs. de detaljerte planene for nye boligfelt og annen arealbruk. Det er de private utbyggerne. Høyre og Fremskrittspartiet, frihetens forkjempere, ser det ikke som sin oppgave å stoppe eller dempe det private initiativet. Hvis kommuneplanen går igjennom slik som den var i høringsrunden, vil derfor en lang rekke reguleringsplaner og bestemmelser bli oppheva og erstatta med mindre forpliktende generelle retningslinjer. Markalova vil bli uthult ved at store områder langs byggesonen vil bli såkalte «aktivitetssoner», der mange slags kommersielle og ikke-kommersielle aktiviteter og anlegg vil bli oppmuntra.
+
+På regionalt nivå har det allerede vist seg at myndighetene ikke kommer til å håndheve bestemmelsene i planen. Kommunalminister Jan Tore Sanner har for eksempel oppheva et vedtak som sa nei til bygging av et nytt boligfelt i en del av Svartskog i Oppegård kommune, der regionplanen sier at vern skal prioriteres over utbygging. Da er vi tilbake til det som regionplanen skulle få en slutt på, nemlig at hver kommune bygger hvor de sjøl vil, uten hensyn til trafikk og miljø i regionen som helhet. 
+
+## Kollektivutbygginga holder ikke tritt
+
+Konsekvensen av at boligbygginga konsentreres på østsida av byen blir T-banetog som er fulle allerede på de første par stasjonene. Allerede nå må folk langs banen til Ellingsrudåsen stue seg sammen på trevognerstog på halvparten av avgangene. Grunnen er at stasjonene på Frognerseterbanen ikke er bygd for lengre tog, og at Høyre sterkt har motsatt seg å snu Frognerseterbanen på Majorstua. Folk fra Holmenkollåsen skal ikke være brydd med overgang på Majorstua –derfor må folk fra Furuset nøye seg med tre vogner på linje 1.
+
+Våren 2016 åpner Lørenbanen, og rehabiliteringa av Mortensrudbanen er ferdig omtrent samtidig. Vi vil da etter alt å dømme få en ruteplan der alle østlige baner får avgang to ganger i kvarteret, men der halvparten av avgangene på Grorudbanen vil gå over Løren og inn på Ringen mot klokka. Etter dette er det ingen konkrete planer som kan gi ytterligere kapasitetsøkning. Det betyr at den pågående og planlagte boligbygginga i øst vil fylle opp de nye avgangene ganske raskt – kanskje i løpet av 4–5 år på Mortensrudbanen, for eksempel. I tillegg til det er det sannsynlig at de fire ekstra avgangene i timen gjennom sentrumstunnelen som denne ruteplanen innebærer, vil skape mye forsinkelser og uregelmessigheter på alle linjer. I verste fall må en av banene tilbake til én avgang i kvarteret. Om dette har vi skrevet i et debattinnlegg i Aftenposten 5. mai. Byråd Melby avviste at det var noe problem i et motinnlegg 19. mai. Vi trur at hun bygger på en feilaktig teori om hva som er årsaka til uregelmessighetene. Det er ikke gjennomsnittshastigheten gjennom tunnelen, men omfanget av større eller mindre avvik fra ruteplanen, som er problemet. Dette vil et nytt signalsystem i mindre grad gjøre noe med. Derfor mener vi at det skal bli hardt nok å holde den ruteplanen som nå er planlagt. Klarer man det, finnes det ikke ytterligere tiltak som kan øke kapasiteten før det eventuelt blir bygd en ny tunnel.
+
+T-banekapasiteten på østsida holder altså ikke følge med boligbygginga. For bystyreflertallet og byrådets medlemmer spiller det liten rolle – det er vel ikke mange av dem som har prøvd noen av disse linjene i rushtida. De er mer bekymra for trengselen til de som tar banen i sentrum, faktisk. Men det er et lite problem. (1) Det virkelige spørsmålet er: Når folketallet stiger, hvordan kan vi skape bedre forhold for dem som bruker T-banen fra drabantbyene i øst og sør til arbeid i byen eller på vestkanten?
+
+## Og hva er svaret?
+
+Vi må faktisk få stoppa en god del av utbygginga på østkanten inntil vi får en ny tunnel gjennom sentrum. Nybygginga må heller foregå som utvidelser av den bymessige bebyggelsen på vestkanten, for eksempel fra Majorstua og nordover. Samtidig må vi få hyppigere og flere bussavganger i ytre by øst og i Follo og på Romerike – gjerne ekspressbusser. Det vil igjen bety at vi må ha flere kollektivfelt på bilenes bekostning.
+
+Samtidig må vi få rask avklaring av hvordan T-banekapasiteten kan bygges ut gjennom sentrum. For å få penger til ny tunnel må dette prioriteres foran ny E18 vestover og andre prosjekter som står på vent i Oslopakke 3.   
+
+<hr> 
+
+**Note 1:** Legg merke til at en stor del av de reisende går av på Jernbanetorget og de andre sentrumsstasjonene. Like mange går på, men før de har kommet på, har de som står, kunnet finne sitteplass, slik at de som reiser noen få holdeplasser gjennom byen, ikke behøver å stå lenge. Det virkelige problemet har de som må stå fra de går på på Bogerud eller Grorud og må stå helt til byen, og de som går på etter Jernbanetorget og må stå helt til Vestli eller Mortensrud. 
