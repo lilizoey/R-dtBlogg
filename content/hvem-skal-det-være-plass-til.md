@@ -1,5 +1,4 @@
 Title: Hvem skal det være plass til?
-Category: Avis
 Author: Gudmund A Dalsbø
 Summary: <img src="{static}/images/ostensjo_anda.jpg" class="left"> Et sakspapir med overskrift «Etablering av modulhus i Bydel Østensjø» førte i mai 2013 til lokal kampanjevirksomhet. Les vår kommentar til sakspapiret og kampanjen her.
 Lang: no

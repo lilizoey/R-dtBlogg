@@ -4,13 +4,22 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Rødt Østensjø'
 SITENAME = 'Rødt Østensjø'
-SITEURL = ''
+SITEURL = 'http://www.rodtostensjo.no/beta'
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Oslo'
 
 DEFAULT_LANG = 'no'
+
+STATIC_PATHS = [
+    'pdfs',
+    'images',
+    'extra',  # this
+]
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -46,7 +55,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-LOCALE = ('nb_NO', 'no')
+LOCALE = ('nb_NO.utf8', 'nb_NO', 'no')
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
