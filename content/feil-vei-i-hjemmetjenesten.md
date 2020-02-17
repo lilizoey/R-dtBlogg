@@ -3,7 +3,7 @@ Summary: Det er høy terskel for å få praktisk bistand (hjemmehjelp) i bydelen
 Date: 1970-01-01 00:00:10
 Author: Harald Minken
 
-<img width="100px" src="{static}/images/harald.jpg" class="left"/>
+<img width="100px" src="{static}/images/medlemmer/harald.jpg" class="left"/>
 
 **Innlegg i *Nordstrands Blad* 7. mai 2015**
 

@@ -2,7 +2,7 @@ Title: Blir det plass på østensjøbanen?
 Date: 1970-01-01 00:00:07
 Summary: <img src="{static}/images/t_bane-vogn.jpg" class="left"/> Rødt Østensjøs førstekandidat Harald Minken spør hvilke planer som er for t-bane i bydelen når Østensjøbanen åpner igjen. 
 Author: Harald Minken
-<img width="100px" src="{static}/images/harald.jpg" class="left" />
+<img width="100px" src="{static}/images/medlemmer/harald.jpg" class="left" />
 
 **Innlegg i Aftenposten 5. mai 2015**
 

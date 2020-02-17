@@ -3,7 +3,7 @@ Date: 1970-01-01 00:00:10
 Summary: Østensjø bydel er i ferd med å drukne i gjennomgangstrafikk mellom Oslo og Follo. Allerede nå er det stillestående køer i ettermiddagsrushet på flere lokalveier, skriver Rødt Østensjøs førstekandidat Harald Minken i dette innlegget.
 Author: Harald Minken
 
-<img width="100px" src="{static}/images/harald.jpg" class="left"/>
+<img width="100px" src="{static}/images/medlemmer/harald.jpg" class="left"/>
 
 **Innlegg på [*Nye meninger*](http://nyemeninger.no/hminken/) 14. juli 2015**
 

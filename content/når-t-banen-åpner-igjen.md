@@ -1,0 +1,43 @@
+Title: Når T-banen åpner igjen ...
+Author: Harald Minken
+Date: 2015-12-02
+
+**Harald Minken analyserer trafikksituasjonen i bydelen når Østensjøbanen snart åpner igjen. Den er ikke bare lystelig.**
+
+**Han ender med å spørre: «Det forrige byrådet regnet åpenbart med at kapasiteten på T-banen kunne økes gradvis med mindre forbedringer i de neste 20 åra, slik at byutviklingen trygt kunne dirigeres til Oslo øst og sør, mens ny T-banetunnel godt kunne vente til Oslopakke 4 eller 5. Har det nye byrådet en bedre plan?»**
+
+## Trafikkproblemer på kort sikt
+
+Som de fleste langs Østensjøbanen sikkert har fått med seg, åpner banen igjen den 10. januar, men foreløpig bare til Bøler, og bare med én avgang i kvarteret. Samtidig vil en av de to avgangene på Lambertseterbanen bli snudd på Stortinget. Dette framgår av rutetabellene som nå er lagt ut på [ruter.no](https://ruter.no/nyheter/t-banens-linje-3-gjenapner-til-boler-10januar/).
+
+Samtidig skjer det ting med vegnettet. En gang i slutten av februar vil Brynstunnelen (biltunnelen på ring 3 ved Bryn) bli delvis stengt. Det vil si at det ene løpet skal holdes åpent, mens det andre blir rehabilitert. Dette vil holde på i nærmere halvannet år. De tre første ukene, altså i mars, vil også det ene feltet på Østensjøveien bli stengt ved Høyenhall T-banestasjon. Et par påkjøringsramper til E6 i nærheten vil også være stengt under rehabiliteringen. ([Les mer på Vegvesenets nettsider](http://www.vegvesen.no/vegprosjekter/tunneleroslo/tunnelene/brynstunnelen).)
+
+3</>. april lysner det litt. Da vil Lørenbanen mellom Økern og Sinsen åpne. Samtidig vil Østensjøbanen bli gjenåpnet helt til Mortensrud. Alt tyder på at den da vil få to avganger i kvarteret, idet en av avgangene på Grorudbanen føres over den nye banen og inn på ringen mot klokka, og videre gjennom sentrum til Mortensrud. Den ene av de to avgangene i kvarteret på Lambertseterbanen vil fortsatt bli snudd på Stortinget.
+
+Men vi må nok vente oss store køproblemer på vegsystemet i Oslo sør i hele den tida rehabiliteringen av Brynstunnelen varer. Det gjelder alle lokale gjennomfartsveger, som Enebakkveien, Østensjøveien og Ytre ringveg, pluss Svartdalstunnelen, Tvetenveien og en del andre steder som bilistene sikkert vil finne fram til etter hvert. Det er grunn til alvorlig bekymring for fugle- og dyrelivet ved Østensjøvannet og i nærheten. Allerede i dag er E6 fra Ulvensplitten til Ryen og videre sørover til Skulleruddumpa, sammen med de tilstøtende vegene vi har nevnt, kanskje det området i Oslo der køene går langsomst om ettermiddagen. Siden dette ikke er erkjent, verken blant politikerne eller samferdselsplanleggerne, er det heller ikke planlagt spesielle tiltak som kan avhjelpe situasjonen.
+
+I de første månedene av rehabiliteringen av Brynstunnelen vil kapasiteten på T-banen ikke være bedre enn den var før Østensjøbanen blei stengt, men snarere litt dårligere. T-banen kommer til å bli fryktelig full i rushtida. Når Østensjøbanen får to avganger 3. april vil det bli bedre, men det er rimelig å anta at den nye kapasiteten fort vil bli utnyttet av frusterte bilister og av innflyttere til de nye boligområdene i sør. Dermed vil trengselen om bord nærme seg det den var for ett år sida. Etter at Brynstunnelen er ferdig, er det så ikke lenge før Svartdalstunnelen står for tur.
+
+## Blir det bedre på langt sikt?
+
+5</>. mai i fjor hadde jeg et [debattinnlegg](http://www.rodtostensjo.no/planer_ruter.html) i *Aftenposten* der hovedpoenget var at de tiltakene som er planlagt så langt, ikke vil kunne øke kapasiteten i T-banetunnelen gjennom sentrum vesentlig.
+
+Den antatt maksimale kapasiteten var da 28 tog i timen, eller sju i kvarteret. Og denne kapasiteten var fullt utnyttet. Dette var situasjonen mens Østensjøbanen var stengt og Lambertseterbanen hadde to avganger i kvarteret.
+
+Tvert imot hva folk er ledet til å tru, vil rehabiliteringen av banene *ikke* øke kapasiteten. Derfor påsto jeg at gjenåpningen av Østensjøbanen, når den skjer, ville måtte gå på bekostning av en av avgangene på Lambertseterbanen. Om man venter til Lørenbanen åpner, kan Østensjøbanen riktignok åpne uten kutt i avgangene på Lambertseterbanen, men om man vil ha *to* avganger i kvarteret på Østensjøbanen etter åpning, slik Ruter hele tida har lovt, må man likevel ta bort en av avgangene på Lambertseterbanen, sa jeg.
+
+Kapasitet er et relativt begrep. Naturligvis kan man på papiret lage en ruteplan der man øker antall avganger i kvarteret gjennom tunnelen fra 7 til 8, slik at man beholder doble avganger på alle østlige baner også etter rehabiliteringen. Men det som da sannsynligvis vil skje, er at det vil oppstå problemer med å holde ruta. Forsinkelser på den ene avgangen vil lettere forplante seg til avgangene etter. Det skaper større eller mindre vanskeligheter med å holde rutetabellen.
+
+Man kan prøve og se hvordan det går, men det er i hvert fall ikke sikkert det går bra. Videre økninger til 9 eller 10 avganger i kvarteret, for eksempel for å få plass til Fornebubanen, virker uansett som utopi. **Derfor ba jeg byrådet framskynde planene om bygging av ny T-banetunnel gjennom sentrum, samt sørge for at alle boligutbyggingsprosjekter fram til en ny tunnel kan åpne, blir lagt til vestkanten, der det enda er plass om bord på banene i rushtida.**
+
+Byrådet hørte naturligvis ikke på det. Miljøbyråden, som den gang var Guri Melby fra Venstre, [svarte i *Aftenposten* 18. mai](http://www.aftenposten.no/meninger/debatt/T-banen-er-rustet-for-fremtiden-8021438.html) at det ikke ville være noe problem i det hele tatt å øke antall avganger i kvarteret til 8 fra 2016, og det helt uten dårligere punktlighet! Men for sikkerhets skyld ville hun ikke føre den åttende avgangen gjennom hele tunnelen, men snu den på Stortinget. Slik skulle alle østlige baner få to avganger i kvarteret. På lengre sikt mente hun at et nytt signalsystem kunne øke kapasiteten ytterligere. Med ny tunnel hastet det åpenbart ikke. Hun så nok heller ikke noe behov for å omdirigere boligutbyggingen fra øst til vest, selv om hun ikke kommenterte det.   
+
+Ruters planer for 2016 er helt i tråd med Melbys svar. En av avgangene på Lambertseterbanen skal snus på Stortinget allerede fra 10. januar. Dermed blir det 32 avganger i timen gjennom tunnelen øst for Stortinget og 28 vest for Stortinget. Det har ennå ikke kommet noen ruteplan for tida etter 3. april, men alt tyder på at doblingen av antall avganger på Østensjøbanen fra 3. april vil skje ved å føre en av avgangene på Grorudbanen over ringen mot klokka til Mortensrud. Da vil det fortsatt gå 32 avganger i tunnelen øst for Stortinget og 28 vest for Stortinget.
+
+Så får vi se hvordan det går. Jeg håper jo det går fint. Men det som bekymrer meg, er  at de som er ansvarlig for disse planene, tydeligvis ikke erkjenner at når togene kommer tettere, vil alle forsinkelser og forstyrrelser ha lettere for å spre seg videre bakover til andre tog. Derfor har de ingen god reserveplan om det skulle vise seg at systemet blir upålitelig. Det kan skje ved 8, 9 eller 10 avganger i kvarteret, det er vanskelig å si nøyaktig, men på et visst punkt vil det skje. Et nytt styringssystem (av typen CBTC, se artikkel på [engelskspråklig Wikipedia](https://en.wikipedia.org/wiki/Communications-based_train_control)) kan nok hjelpe litt, men det hjelper ikke på forsinkelser som oppstår på stasjonene eller før togene går inn i tunnelen. Det har derfor relativt liten effekt i et system som det vi har i Oslo, med mange stasjoner og fast rutetabell.
+
+Vi som har ventet på buss 3B hver dag siden april i fjor, har ikke lyst til å gi slipp på den faste rutetabellen på T-banen. Uten den har vi fort måttet regne et ekstra kvarter på reisa, for vi visste aldri om vi ville være heldig med når bussen kom, eller med overgangen til T-banen på Helsfyr. Vi har heller ikke lyst på et system der punktligheten opprettholdes ved at banen starter opp fra stasjonen uansett om alle har kommet om bord eller ikke.
+
+Det empiriske grunnlaget for å tru at det skal gå bra med 32 avganger i timen, er syltynt – et femdagersforsøk der alle T-baneførerne hadde streng beskjed om å holde ruta uansett hva som skjer. Forhåpentligvis går det bra denne gangen, men å utsette ny tunnel til en gang på 2030-tallet er å spille hasard med Oslos framtid. Ingen veit det bedre enn de som må stå i bilkø ved sørenden av Østensjøvann hver eneste dag, eller stå som sild i tønne i 20 minutter på T-banen to ganger om dagen.
+
+**Det forrige byrådet regnet åpenbart med at kapasiteten på T-banen kunne økes gradvis med mindre forbedringer i de neste 20 åra, slik at byutviklingen trygt kunne dirigeres til Oslo øst og sør, mens ny T-banetunnel godt kunne vente til Oslopakke 4 eller 5. Har det nye byrådet en bedre plan?**

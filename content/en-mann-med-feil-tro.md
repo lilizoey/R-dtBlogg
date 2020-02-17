@@ -1,0 +1,11 @@
+Title: En mann med feil tro
+Date: 2015-11 00:00:01
+Summary: <p>«En mann brukte dag og natt på å organisere mat og klær og ly til flyktningene på Tøyen. Men en dag fant de skriftlærde humanistene og andre sjølgode mennesker ut at denne mannen hadde feil tro.»</p>  <p>Les Harald Minkens innlegg i debatten omkring Aftenpostens valg av Årets Oslo-borger 2015.</p>
+
+{image-caption[{static}/images/aarets_navn_2015.jpg][Utsnitt av et foto i samband med utnevnelsen. Foto: Monica Strømdahl; tegning: Inge Grødum]}
+
+En mann brukte dag og natt på å organisere mat og klær og ly til flyktningene på Tøyen. Men en dag fant de skriftlærde humanistene og andre sjølgode mennesker ut at denne mannen hadde feil tro, både om homofili og angrepet på tvillingtårnene. Han var ikke en av våre egne, holdninger som hans var fremmede og skremmende og måtte bekjempes med all kraft, sa de nå, alle de som i månedsvis hadde gått rolig forbi flyktningene uten å løfte en finger.
+
+Slikt har skjedd før. Det står om det i Bibelen, i fortellingen om den barmhjertige samaritan, han som hjalp en som var blitt utsatt for overfall. Både prester og professorer hadde gått rolig forbi og overlatt den skadde til seg sjøl. Men så kom en samaritaner som fikk mannen til lege. Hvem var han, denne samaritaneren?
+
+For en jøde på Jesu tid var en samaritaner en som hadde en feilaktig tro. Samaritanernes tro bygde på mye av det samme som jødenes tro, men de hadde noen stygge feiloppfatninger om hvor og hvordan man skulle tilbe Gud, og holdt seg med en feil versjon av den hellige skrift. Avvik som gjorde dem til dårlige mennesker i fariseernes øyne. Jesus viste at det var ikke denne typen avvik det kom an på, men hva man gjør i praksis. Både humanister og kristne har vært dypt rørt over denne historien. Men det skal ikke mer enn noen feilaktige ord til fra den barmhjertige mannen, før både humanistene og de kristne vender seg rasende mot ham, og behandler ham like nedlatende som fariseerne behandlet samaritanerne. Og de fortsetter å gå rett forbi.

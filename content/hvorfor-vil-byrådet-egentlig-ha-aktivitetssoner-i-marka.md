@@ -1,5 +1,5 @@
 Title: Hvorfor vil byrådet egentlig ha «aktivitetssoner» i Marka?
-Date: 2015-09
+Date: 2015-08-30
 Author: Gunnhild Lurås
 Summary: Kommunestyret skal i september vedta en ny omfattende kommuneplan for Oslo. Et veldig omdiskutert sak er byrådets forslag om «aktivitetssoner» i Marka. Det er et veldig dårlig forslag. Hvorfor vil de ha disse sonene? Er det et tilfeldig påfunn? Nei, Rødt mener det er et ledd i en helhetlig og skadelig politikk; skriver Gunnhild Lurås, Rødt Østensjøs andrekandidat ved bydelsvalget 2015. <br> [Se kart over de planlagte aktivitetssonene her]({filename}/nei-til-aktivitetssonen.md). 
 

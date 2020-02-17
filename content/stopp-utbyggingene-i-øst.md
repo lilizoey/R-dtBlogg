@@ -3,7 +3,7 @@ Date: 1970-01-01 00:00:09
 Summary: Arealbrukspolitikken motsier transportpolitikken i Oslo. Vi må derfor få stoppa en god del av utbygginga på østkanten inntil vi får en ny tunnel gjennom sentrum, skriver Rødt Østensjøs førstekandidat Harald Minken i dette innlegget.
 Author: Harald Minken
 
-<img width="100px" src="{static}/images/harald.jpg" class="left"/>
+<img width="100px" src="{static}/images/medlemmer/harald.jpg" class="left"/>
 
 **Vi må få stoppa en god del av utbygginga på østkanten til vi får en ny tunnel gjennom sentrum.**
 
