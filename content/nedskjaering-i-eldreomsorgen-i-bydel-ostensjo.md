@@ -1,0 +1,15 @@
+Title: Nedskjæring i eldreomsorgen i bydel Østensjø
+Author: Anne Minken
+Date: 2017-01-01
+
+**Anne og Harald Minken kommenterer i dette innlegget hvordan bydel Østensjø reduserer hjemmehjelpstilbudet.**
+
+Det som før het hjemmehjelp, heter nå praktisk bistand. Praktisk bistand i bydel Østensjø har blitt skåret kraftig ned de siste par årene. Antall brukere er redusert med 17 prosent fra 2014 til 2016, og antall timer til hver bruker er i gjennomsnitt redusert med 21 prosent. Det framgår av statistikken over tjenesteproduksjon i bydelen per oktober hvert år. Den samlede virkningen av færre brukere og færre timer til hver bruker er at det totale antall timer med praktisk bistand i bydelen er redusert med hele 39 prosent på to år.
+
+Det argumenteres av og til for at dette skyldes nedgang i antall eldre i bydelen. Men nedgangen i antall innbyggere over 80 år i Østensjø bydel var bare fem prosent i samme periode. Antallet over 90 år har faktisk økt. Uansett er det umulig å forklare nedskjæringen i timetallet pr. bruker med at det har blitt færre brukere. Det er derimot grunn til å tro at en stor del av nedskjæringen er et resultat av planmessig omgjøring av timetildelingen til de som tidligere hadde hjemmehjelp annen hver uke, altså de forholdsvis friske. De har nå hjelp bare tredje hver uke. Vi snakker om en planmessig omlegging av hele eldreomsorgen. Og den vil fortsette i 2017.
+
+Hva er det som skjer? Vi har ikke undersøkt statistikk for andre bydeler, men sannsynligvis vil en kunne finne noe tilsvarende der. Det sprer seg nemlig en ny ideologi i eldreomsorgen i hele byen. Det satses tungt på å skjære ned på antall sjukehjemsplasser. Da må hjemmesjukepleien styrkes. Ressursene til det tas fra praktisk bistand, og det jobbes med en rekke prosjekter med fine navn som hverdagsrehabilitering, tillitsmodellen og velferdsteknologi. Tanken er at om vi kan holde de gamle spreke, åndsfriske og i godt humør nærmest til det siste, trengs det mindre hjelp fra kommunen.
+
+Et problem med velferdsteknologien er at det vil føre til enda mindre alminnelig menneskelig kontakt, enda mindre muligheter for de som får hjelpa til å påvirke innholdet. Et annet problem er at nedskjæringene på praktisk bistand foretas før vi har sett om teknologien og aktiviseringen faktisk gir resultater i form av gamle som klarer seg bedre sjøl. Og det tredje problemet er at det faktisk ikke har blitt flere som får hjemmesjukepleie heller. Det er 3 prosent færre brukere i hjemmesjukepleien i Østensjø i 2016 enn i 2014. Hver bruker har riktignok fått flere timer (16 prosent), men noe av denne effekten kan skyldes at de friskeste ikke lenger får noe, og at de dårligste brukerne er dårligere. Det er vanskelig å se for seg at noe av dette skal gi et varig grunnlag for å redusere praktisk bistand og nedlegge sjukehjemsplasser. Men vi skal følge med, så får vi se.
+
+(Trykt i *Nordstrands Blad* i januar 2017)

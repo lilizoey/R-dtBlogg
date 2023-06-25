@@ -30,7 +30,7 @@ AUTHOR_FEED_RSS = None
 DEFAULT_DATE = (1970, 1, 1, 0, 0, 0)
 
 
-THEME = "/home/sayaks/pelican-themes/foundation-default-colours"
+THEME = "/home/n646636/pelican-themes/foundation-default-colours"
 PLUGINS = ["plugins.foundation_images"]
 
 # Theme settings
